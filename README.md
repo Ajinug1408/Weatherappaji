@@ -13,7 +13,7 @@ WeatherApp adalah aplikasi berbasis web sederhana yang menyediakan informasi cua
 - 🌎 Navigasi Halaman: Navbar interaktif dengan efek smooth scrolling.
 
 📸 Tampilan Aplikasi
-<img src="weather-preview.png" alt="WeatherApp Preview">
+<img src= weather-preview.png alt="WeatherApp Preview">
 
 🛠️ Teknologi yang Digunakan
 - HTML5, CSS, JavaScript
