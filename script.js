@@ -1,7 +1,7 @@
 //Untuk mendapatkan cuaca
 async function getWeather() {
     const city = document.getElementById('city').value;
-    const apiKey = 'Enter Your API KEY'; 
+    const apiKey = '94d4fba58d612e7650c6d8dfa40a7991'; 
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
     try {
